@@ -7,10 +7,14 @@ assignees: ''
 
 ---
 
-Source (i.e. DeepMind, OpenAI, Google, etc.)
+### Details
 
-General Topic
+[]()
 
-Short Summary (200 words)
+**Source**:
 
-Shorter Summary (100 words)
+**General Topic**:
+
+### Short Summary (200 words)
+
+### Shorter Summary (100 words)
